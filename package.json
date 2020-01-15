@@ -1,0 +1,8 @@
+{
+  "name": "omnistack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/falesking/omnistack.git",
+  "author": "Evotechapp <fabio_sph@live.com>",
+  "license": "MIT"
+}
